@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Integrantes() {
   return (
-    <div>
+    <div className='bg-fundoSite min-h-screen'>
       <section className=' p-6 text-center '>
         <h1 className='uppercase text-center mt-4 pb-6 font-bold text-xl md:text-3xl text-sobre '>Sobre nós</h1>
         <div className='flex flex-col items-center justify-center md:flex-row md:gap-16'>
