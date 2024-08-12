@@ -11,6 +11,8 @@ export default {
         naoSelecionado: '#82C27C',
         fundoHeader: '#87BFDD',
         fundoSite: '#EDEEEF',
+        sobre: '#216487',
+
       },
       
       },
