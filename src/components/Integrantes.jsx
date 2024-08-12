@@ -12,7 +12,7 @@ export default function Integrantes() {
               <p className='font-bold text-2xl pt-6 font-sans'>Pedro H. Gomes</p>
               <p className='text-xl'><span className='font-bold'>Idade:</span>17 anos</p>
               <p className='text-xl'> <span className='font-bold'>Formação:</span> Unasp- Técnico de Informática</p>
-              <a className='pt-6 ' href="https://www.instagram.com/juh_schiavi18?igsh=ZnVzMHZ1dWc2am4x&utm_source=qr"> <img src="/src/assets/insta.png" alt="" /></a>
+              <a className='pt-6 ' href="https://www.instagram.com/_phgomex?igsh=Z2puczV0bGFyamJu"> <img src="/src/assets/insta.png" alt="" /></a>
             </div>
 
           </section>

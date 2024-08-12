@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        botaoSelecionado: '#56AF54',
-        naoSelecionado: '#82C27C',
+        botaoSelecionado: '#216487',
+        naoSelecionado: '#FFF',
         fundoHeader: '#87BFDD',
         fundoSite: '#EDEEEF',
         sobre: '#216487',
