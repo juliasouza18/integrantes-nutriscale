@@ -14,6 +14,10 @@ export default {
         sobre: '#216487',
 
       },
+
+      font:{
+         
+      }
       
       },
       letterSpacing: {
